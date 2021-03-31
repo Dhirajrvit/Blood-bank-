@@ -9,4 +9,4 @@ PHP
 mysql
 # How to install and run download zip file and then use XAMPP 5.6 for this project.You can download it from here...
 https://www.apachefriends.org/download.html
-# import the sql file on the database .
+# And then,import the sql file on the database .
